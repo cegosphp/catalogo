@@ -1,0 +1,4 @@
+Guia:
+http://www.w3schools.com/php/default.asp
+Editor en linea :
+http://phpfiddle.org/
